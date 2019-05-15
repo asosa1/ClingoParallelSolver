@@ -1,0 +1,38 @@
+vertice(0, 0).
+edge(0, 0, 1).
+edge(0, 0, 2).
+edge(0, 0, 6).
+vertice(0, 1).
+edge(0, 1, 0).
+edge(0, 1, 2).
+vertice(0, 2).
+edge(0, 2, 0).
+edge(0, 2, 1).
+edge(0, 2, 3).
+vertice(0, 3).
+edge(0, 3, 9).
+edge(0, 3, 5).
+vertice(0, 4).
+edge(0, 4, 5).
+vertice(0, 5).
+edge(0, 5, 3).
+edge(0, 5, 4).
+vertice(0, 6).
+edge(0, 6, 0).
+edge(0, 6, 7).
+edge(0, 6, 8).
+vertice(0, 7).
+edge(0, 7, 6).
+edge(2, 7, 32).
+vertice(0, 8).
+edge(0, 8, 11).
+edge(1, 8, 24).
+vertice(0, 9).
+edge(0, 9, 3).
+edge(0, 9, 11).
+vertice(0, 10).
+edge(0, 10, 11).
+vertice(0, 11).
+edge(0, 11, 9).
+edge(0, 11, 10).
+

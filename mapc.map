@@ -1,0 +1,26 @@
+vertice(2, 26).
+edge(2, 26, 27).
+edge(2, 26, 28).
+edge(2, 26, 32).
+edge(2, 26, 33).
+edge(2, 26, 34).
+vertice(2, 27).
+edge(2, 27, 26).
+edge(2, 27, 29).
+vertice(2, 28).
+edge(2, 28, 26).
+edge(2, 28, 30).
+edge(2, 28, 31).
+vertice(2, 29).
+edge(2, 29, 27).
+vertice(2, 30).
+edge(2, 30, 28).
+vertice(2, 31).
+edge(2, 31, 28).
+vertice(2, 32).
+edge(2, 32, 26).
+edge(0, 32, 7).
+vertice(2, 33).
+edge(2, 33, 26).
+vertice(2, 34).
+edge(2, 34, 26).
